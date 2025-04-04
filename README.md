@@ -227,7 +227,7 @@ The system integrates multiple components, as shown in the diagram:
 
 Watch a **small demonstration** of mapping the world with RTAB-Map on YouTube:  
 
-[![RTAB-Map Mapping Demo](https://img.youtube.com/vi/FPLTNIayfxk/0.jpg)](https://www.youtube.com/watch?v=FPLTNIayfxk)  
+[![RTAB-Map Mapping Demo](https://youtu.be/aOsNzGtrLaY)  
 
 Click the image to view the demo video!
 
